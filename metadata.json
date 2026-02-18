@@ -1,0 +1,7 @@
+{
+  "name": "CMD Tennis Pro",
+  "description": "A terminal-styled advanced tennis coaching platform powered by Gemini AI, offering stroke analysis, tactical strategies, and real-time ATP/WTA news.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
